@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "MyMicroservice.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Name": "..\\OcelotDemo\\OcelotDemo.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Name": "..\\AuthenticationWebApi\\AuthenticationWebApi.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      }
+    ]
+  }
+]

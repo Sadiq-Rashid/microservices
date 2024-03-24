@@ -1,0 +1,31 @@
+{
+  "Routes": [
+    //Authentication Web Api
+    {
+      "UpstreamPathTemplate": "/api/Account",
+      "UpstreamHttpMethod": [ "post" ],
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5207
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Account"
+
+    },
+    {
+      "DownstreamPathTemplate": "/weatherforecast",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5212
+        }
+      ],
+      "UpstreamPathTemplate": "/weatherforecast",
+      "UpstreamHttpMethod": [ "GET" ]
+    }
+  ]
+
+}

@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "IH4oxLOsAA5pSHRC4pY/xx+G84NY4vMW5TwKCzhkpJN9kQBxVz+ccg9tEkRZuadWx+pYK74X8582Wm4jXZzngQ==",
+  "success": true,
+  "projectFilePath": "D:\\NETCOREAPPS\\OcelotDemo\\OcelotDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sadiq.rashid\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",
+    "C:\\Users\\sadiq.rashid\\.nuget\\packages\\ipaddressrange\\6.0.0\\ipaddressrange.6.0.0.nupkg.sha512",
+    "C:\\Users\\sadiq.rashid\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.0\\microsoft.aspnetcore.jsonpatch.8.0.0.nupkg.sha512",
+    "C:\\Users\\sadiq.rashid\\.nuget\\packages\\microsoft.aspnetcore.middlewareanalysis\\8.0.0\\microsoft.aspnetcore.middlewareanalysis.8.0.0.nupkg.sha512",
+    "C:\\Users\\sadiq.rashid\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\8.0.0\\microsoft.aspnetcore.mvc.newtonsoftjson.8.0.0.nupkg.sha512",
+    "C:\\Users\\sadiq.rashid\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\sadiq.rashid\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\sadiq.rashid\\.nuget\\packages\\microsoft.extensions.diagnosticadapter\\3.1.32\\microsoft.extensions.diagnosticadapter.3.1.32.nupkg.sha512",
+    "C:\\Users\\sadiq.rashid\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\sadiq.rashid\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\sadiq.rashid\\.nuget\\packages\\ocelot\\23.1.0\\ocelot.23.1.0.nupkg.sha512",
+    "C:\\Users\\sadiq.rashid\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

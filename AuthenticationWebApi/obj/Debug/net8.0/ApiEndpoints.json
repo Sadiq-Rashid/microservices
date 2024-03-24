@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "AuthenticationWebApi.Controllers.AccountController",
+    "Method": "Authenticate",
+    "RelativePath": "api/Account",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "authenticationRequest",
+        "Type": "JwtAuthenticationManager.Models.AuthenticationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "JwtAuthenticationManager.Models.AuthenticationResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

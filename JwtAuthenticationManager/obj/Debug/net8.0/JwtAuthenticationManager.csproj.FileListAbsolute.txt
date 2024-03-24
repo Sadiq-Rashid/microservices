@@ -1,0 +1,12 @@
+D:\NETCOREAPPS\JwtAuthenticationManager\bin\Debug\net8.0\JwtAuthenticationManager.deps.json
+D:\NETCOREAPPS\JwtAuthenticationManager\bin\Debug\net8.0\JwtAuthenticationManager.dll
+D:\NETCOREAPPS\JwtAuthenticationManager\bin\Debug\net8.0\JwtAuthenticationManager.pdb
+D:\NETCOREAPPS\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.csproj.AssemblyReference.cache
+D:\NETCOREAPPS\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\NETCOREAPPS\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.AssemblyInfoInputs.cache
+D:\NETCOREAPPS\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.AssemblyInfo.cs
+D:\NETCOREAPPS\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.csproj.CoreCompileInputs.cache
+D:\NETCOREAPPS\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.dll
+D:\NETCOREAPPS\JwtAuthenticationManager\obj\Debug\net8.0\refint\JwtAuthenticationManager.dll
+D:\NETCOREAPPS\JwtAuthenticationManager\obj\Debug\net8.0\JwtAuthenticationManager.pdb
+D:\NETCOREAPPS\JwtAuthenticationManager\obj\Debug\net8.0\ref\JwtAuthenticationManager.dll
